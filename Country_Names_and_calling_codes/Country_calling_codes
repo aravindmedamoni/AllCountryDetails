@@ -1,0 +1,280 @@
+Calling code	Country or territory	Exit Prefix (IDD)	National Prefix (NDD)
+A
+93	Afghanistan	00	0
+358 18	Aland Islands (Finland)	00	0
+355	Albania	00	0
+213	Algeria	00	0
+1 684	American Samoa (USA)	011	1
+376	Andorra	00	–
+244	Angola	00	0
+1 264	Anguilla (UK)	011	1
+1 268	Antigua and Barbuda	011	1
+54	Argentina	00	0
+374	Armenia	00	0
+297	Aruba (Netherlands)	00	–
+247	Ascension Island (UK)	00	–
+61	Australia	0011	0
+672	Australian External Territories	00	0
+43	Austria	00	0
+994	Azerbaijan	00	0
+B
+1 242	Bahamas	011	1
+973	Bahrain	00	–
+880	Bangladesh	00	0
+1 246	Barbados	011	1
+375	Belarus	810	8
+32	Belgium	00	0
+501	Belize	00	–
+229	Benin	00	–
+1 441	Bermuda (UK)	011	1
+975	Bhutan	00	–
+591	Bolivia	00	0
+599 7	Bonaire (Netherlands)	00	0
+387	Bosnia and Herzegovina	00	0
+267	Botswana	00	–
+55	Brazil	00	0
+246	British Indian Ocean Territory (UK)	00	–
+1 284	British Virgin Islands (UK)	011	1
+673	Brunei	00	–
+359	Bulgaria	00	0
+226	Burkina Faso	00	–
+257	Burundi	00	–
+C
+855	Cambodia	001, 007	0
+237	Cameroon	00	–
+1	Canada	011	1
+238	Cape Verde	00	–
+599	Caribbean Netherlands (Netherlands)	00	–
+1 345	Cayman Islands (UK)	011	1
+236	Central African Republic	011	–
+235	Chad	00	–
+64	Chatham Islands (New Zealand)	00	03
+56	Chile	1xx0	1xx
+86	China	00	0
+61 8 9164	Christmas Island (Australia)	00	0
+61 8 9162	Cocos Islands (Australia)	0011	0
+57	Colombia	009, 007, 005	09, 07, 05
+269	Comoros	00	–
+242	Congo, Republic of the	00	–
+243	Congo, Democratic Republic of the	00	–
+682	Cook Islands (New Zealand)	00	–
+506	Costa Rica	00	–
+225	Cote d'Ivoire	00	–
+385	Croatia	00	0
+53	Cuba	119	0
+599 9	Curacao (Netherlands)	00	–
+357	Cyprus	00	–
+420	Czech Republic	00	–
+D
+45	Denmark	00	–
+253	Djibouti	00	–
+1 767	Dominica	011	1
+1 809
+1 829
+1 849	Dominican Republic	011	1
+E
+593	Ecuador	00	0
+20	Egypt	00	0
+503	El Salvador	00	–
+240	Equatorial Guinea	00	–
+291	Eritrea	00	0
+372	Estonia	00	–
+268	Eswatini (formerly Swaziland)	00	–
+251	Ethiopia	00	0
+F
+500	Falkland Islands (UK)	00	–
+298	Faroe Islands (Denmark)	00	–
+679	Fiji	00	–
+358	Finland	00, 99x, 99xx, 99xxx	0
+33	France	00	0
+594	French Guiana (France)	00	–
+689	French Polynesia (France)	00	–
+G
+241	Gabon	00	–
+220	Gambia	00	–
+995	Georgia	00	0
+49	Germany	00	0
+233	Ghana	00	0
+350	Gibraltar (UK)	00	–
+30	Greece	00	0
+299	Greenland (Denmark)	00	–
+1 473	Grenada	011	1
+590	Guadeloupe (France)	00	–
+1 671	Guam (USA)	011	1
+502	Guatemala	00	–
+44	Guernsey (UK)	00	0
+224	Guinea	00	–
+245	Guinea-Bissau	00	–
+592	Guyana	001	–
+H
+509	Haiti	00	–
+504	Honduras	00	–
+852	Hong Kong (China)	001	–
+36	Hungary	00	06
+I
+354	Iceland	00	–
+91	India	00	0
+62	Indonesia	001, 007, 008, 009	0
+98	Iran	00	0
+964	Iraq	00	0
+353	Ireland	00	0
+44	Isle of Man (UK)	00	0
+972	Israel	00, 012 - 019	0
+39	Italy	00	–
+J
+1 876	Jamaica	011	1
+81	Japan	010	0
+44	Jersey (UK)	00	0
+962	Jordan	00	0
+K
+7	Kazakhstan	810	8
+254	Kenya	000	0
+686	Kiribati	00	–
+965	Kuwait	00	–
+996	Kyrgyzstan	00	0
+L
+856	Laos	00	0
+371	Latvia	00	–
+961	Lebanon	00	0
+266	Lesotho	00	–
+231	Liberia	00	–
+218	Libya	00	0
+423	Liechtenstein	00	–
+370	Lithuania	00	0
+352	Luxembourg	00	–
+M
+853	Macau (China)	00	–
+389	Macedonia (FYROM)	00	0
+261	Madagascar	00	–
+265	Malawi	00	–
+60	Malaysia	00	0
+960	Maldives	00	–
+223	Mali	00	0
+356	Malta	00	–
+692	Marshall Islands	011	1
+596	Martinique (France)	00	–
+222	Mauritania	00	–
+230	Mauritius	00	–
+262	Mayotte (France)	00	–
+52	Mexico	00	01
+691	Micronesia	011	1
+373	Moldova	00	0
+377	Monaco	00	–
+976	Mongolia	001	0, 01, 02
+382	Montenegro	00	0
+1 664	Montserrat (UK)	011	1
+212	Morocco	00	0
+258	Mozambique	00	–
+95	Myanmar (formerly Burma)	00	–
+N
+264	Namibia	00	0
+674	Nauru	00	–
+977	Nepal	00	–
+31	Netherlands	00	0
+687	New Caledonia (France)	00	–
+64	New Zealand	00	0
+505	Nicaragua	00	–
+227	Niger	00	–
+234	Nigeria	009	0
+683	Niue (New Zealand)	00	–
+672 3	Norfolk Island (Australia)	00	–
+1 670	Northern Mariana Islands (USA)	011	1
+850	North Korea	00	0
+47	Norway	00	–
+O
+968	Oman	00	–
+P
+92	Pakistan	00	0
+680	Palau	011	–
+970	Palestine	00	0
+507	Panama	00	–
+675	Papua New Guinea	00	–
+595	Paraguay	00	0
+51	Peru	00	0
+63	Philippines	00	0
+64	Pitcairn Islands (UK)	00	0
+48	Poland	00	0
+351	Portugal	00	–
+1 787
+1 939	Puerto Rico (USA)	011	1
+Q
+974	Qatar	00	–
+R
+262	Reunion (France)	00	–
+40	Romania	00	0
+7	Russia	810	8
+250	Rwanda	00	–
+S
+599 4	Saba (Netherlands)	00	0
+590	Saint Barthelemy (France)	00	–
+290	Saint Helena (UK)	00	–
+1 869	Saint Kitts and Nevis	011	1
+1 758	Saint Lucia	011	1
+590	Saint Martin (France)	00	0
+508	Saint Pierre and Miquelon (France)	00	0
+1 784	Saint Vincent and The Grenadines	011	1
+685	Samoa	0	–
+378	San Marino	00	0
+239	Sao Tome and Principe	00	–
+966	Saudi Arabia	00	0
+221	Senegal	00	–
+381	Serbia	00	0
+248	Seychelles	00	0
+232	Sierra Leone	00	0
+65	Singapore	001, 008	–
+599 3	Sint Eustatius (Netherlands)	00	–
+1 721	Sint Maarten (Netherlands)	011	–
+421	Slovakia	00	0
+386	Slovenia	00	0
+677	Solomon Islands	00	–
+252	Somalia	00	–
+27	South Africa	00	0
+500	South Georgia Islands (UK)	011	–
+82	South Korea	001, 002, 005, 006, 008, 003xx, 007xx	0, 082
+211	South Sudan	00	–
+34	Spain	00	–
+94	Sri Lanka	00	0
+249	Sudan	00	0
+597	Suriname	00	0
+47 79	Svalbard (Norway)	00	–
+46	Sweden	00	0
+41	Switzerland	00	0
+963	Syria	00	0
+T
+886	Taiwan	002, 005, 006, 007, 009	0
+992	Tajikistan	810	8
+255	Tanzania	000	0
+66	Thailand	001	0
+670	Timor-Leste	00	–
+228	Togo	00	–
+690	Tokelau (New Zealand)	00	–
+676	Tonga	00	–
+1 868	Trinidad and Tobago	011	1
+290 8	Tristan da Cunha (UK)	00	–
+216	Tunisia	00	–
+90	Turkey	00	0
+993	Turkmenistan	810	8
+1 649	Turks and Caicos Islands (UK)	011	1
+688	Tuvalu	00	–
+U
+256	Uganda	000	0
+380	Ukraine	00	0
+971	United Arab Emirates	00	0
+44	United Kingdom	00	0
+1	United States of America	011	1
+598	Uruguay	00	0
+1 340	US Virgin Islands (USA)	011	1
+998	Uzbekistan	810	8
+V
+678	Vanuatu	00	–
+379	Vatican City (Holy See)	00	–
+58	Venezuela	00	0
+84	Vietnam	00	0
+W
+808	Wake Island (USA)	00	–
+681	Wallis and Futuna (France)	00	–
+Y
+967	Yemen	00	0
+Z
+260	Zambia	00	0
+263	Zimbabwe	00	0
